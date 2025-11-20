@@ -1,4 +1,4 @@
-<img width="831" height="342" alt="image" src="https://github.com/user-attachments/assets/b3149f3e-82e6-4d3c-b870-ef68ade13a3c" /># NumPy Program: Column-wise Sorting of a 2D Array
+# NumPy Program: Column-wise Sorting of a 2D Array
 
 ## 🎯 Aim
 To write a **NumPy** program that sorts the elements in each column of a given 2D array in ascending order.
